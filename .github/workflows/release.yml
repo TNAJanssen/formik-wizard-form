@@ -7,7 +7,7 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: github.repository == 'mjangir/formik-wizard-form'
+    if: github.repository == 'TNAJanssen/formik-wizard-form'
     steps:
       - uses: actions/checkout@v2
         with:
