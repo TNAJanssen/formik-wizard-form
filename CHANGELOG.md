@@ -1,5 +1,11 @@
 # formik-wizard-form
 
+## 3.0.0
+
+### Major Changes
+
+- [`95888b9`](https://github.com/mjangir/formik-wizard-form/commit/95888b91a4c20af89e36e096cab7987af77ddfcb) Thanks [@TNAJanssen](https://github.com/TNAJanssen)! - Allow to typehint the values of the form wizard
+
 ## 2.0.1
 
 ### Patch Changes
